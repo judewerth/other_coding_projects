@@ -1,0 +1,3 @@
+[submodule "overwatch_discord_bot"]
+	path = overwatch_discord_bot
+	url = https://github.com/judewerth/Overboard_Discord_Bots
