@@ -1,3 +1,6 @@
 [submodule "overwatch_discord_bot"]
 	path = overwatch_discord_bot
 	url = https://github.com/judewerth/Overboard_Discord_Bots
+[submodule "beeble_chat_app"]
+	path = beeble_chat_app
+	url = https://github.com/skystart103/Beeble
